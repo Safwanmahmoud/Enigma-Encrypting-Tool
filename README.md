@@ -20,6 +20,6 @@ the initial setting, or the key to encrypt the message is then the three initial
 
 ##  **How it works**
 The UI has two text areas, you can enter the message you want to encrypt/decrypt in the top input area, and then choose the initial settings, then you can press encrypt/decrypt button to find your encrypted message in the down box.
-<br />![Getting Started](https://github.com/Safwanmahmoud/Enigma-Encrypting-Tool/blob/main/wiringdiagram.png)
+<br />![Getting Started](https://github.com/Safwanmahmoud/Enigma-Encrypting-Tool/blob/main/1.PNG)
 <br />![Getting Started](https://github.com/Safwanmahmoud/Enigma-Encrypting-Tool/blob/main/wiringdiagram.png)
 <br />![Getting Started](https://github.com/Safwanmahmoud/Enigma-Encrypting-Tool/blob/main/wiringdiagram.png)
